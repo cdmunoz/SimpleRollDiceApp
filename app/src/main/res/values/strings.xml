@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Simple Roll Dice App</string>
+  <string name="double_tap_msg">Double tap to Roll Dices</string>
+</resources>
